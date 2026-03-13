@@ -52,8 +52,8 @@
   </tr>
   <tr>
     <td nowrap>2012.03 - 2018.02</td>
-    <td nowrap>서울예술대학교 · 실내디자인과 졸업</td>
-    <td>실내 디자인 전공</td>
+    <td nowrap>서울예술대학교</td>
+    <td>실내디자인과 졸업</td>
   </tr>
 </table>
 
