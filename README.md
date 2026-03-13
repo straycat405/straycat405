@@ -1,10 +1,7 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6DB33F&center=true&width=500&lines=Hello%2C+I'm+Dong+Jin+Park+%F0%9F%90%BE;Backend+Developer+%7C+Spring+Boot;Always+learning%2C+always+shipping)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFFFF&center=true&width=500&lines=Hello%2C+I'm+Dong+Jin+Park+%F0%9F%91%8B;Full-Stack+Developer;Always+learning%2C+always+shipping)](https://git.io/typing-svg)
 </div>
-
----
 
 > 알면 좋은 것보단 잊어버리기 싫은 것들을 기록합니다.
 
@@ -12,8 +9,8 @@
 
 ## 📌 About Me
 
-📎 Portfolio - https://djpark.work/ <br/>
-📝 Velog - https://velog.io/@straycat405/posts
+[![Portfolio](https://img.shields.io/badge/Portfolio-djpark.work-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://djpark.work/) <br/>
+[![Velog](https://img.shields.io/badge/Velog-straycat405-20C997?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@straycat405/posts)
 
 ---
 
