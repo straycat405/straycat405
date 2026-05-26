@@ -9,8 +9,8 @@
 
 ## 📌 About Me
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-djpark.work-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://drive.google.com/file/d/142uXbl5Sr1AS2hZSxnMIS234I-ijVck5/view?usp=sharing) <br/>
-[![Portfolio](https://img.shields.io/badge/Portfolio-djpark.work-000000?style=for-the-badge&logo=vercel&logoColor=white)]([https://drive.google.com/file/d/142uXbl5Sr1AS2hZSxnMIS234I-ijVck5/view?usp=sharing](https://drive.google.com/file/d/142uXbl5Sr1AS2hZSxnMIS234I-ijVck5/view?usp=sharing)) <br/>
+[![Portfolio](https://img.shields.io/badge/Portfolio-first_ticket-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://drive.google.com/file/d/142uXbl5Sr1AS2hZSxnMIS234I-ijVck5/view?usp=sharing) <br/>
+[![Portfolio](https://img.shields.io/badge/Portfolio-personal_llm-000000?style=for-the-badge&logo=vercel&logoColor=white)]([https://drive.google.com/file/d/142uXbl5Sr1AS2hZSxnMIS234I-ijVck5/view?usp=sharing](https://drive.google.com/file/d/142uXbl5Sr1AS2hZSxnMIS234I-ijVck5/view?usp=sharing)) <br/>
 [![Velog](https://img.shields.io/badge/Velog-straycat405-20C997?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@straycat405/posts)
 
 ---
